@@ -1,3 +1,1 @@
-# zen-garden
-css and git practice
-Class Activity.  Practicing CSS and GIT
+Class Activity.  Practicing css and git.  Practicing using echo command to override message.
